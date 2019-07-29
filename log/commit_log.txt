@@ -1,0 +1,3 @@
+TIME		NAME		COMMIT_EXPLAINATION
+19/07/30/12:23	DK		github test파일 삭제
+19/07/30/12:39	DK		log폴더 및 commit_log.txt 생성
