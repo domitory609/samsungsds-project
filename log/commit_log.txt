@@ -1,5 +1,6 @@
 ﻿TIME		NAME		COMMIT_EXPLAINATION
 19/07/30/00:23	DK		github test파일 삭제
 19/07/30/00:39	DK		log폴더 및 commit_log.txt 생성
-19/08/01/00:15	DK		crawling_DK.ipynb에 merge 코드 추가
+19/08/01/00:55	DK		crawling_DK.ipynb에 merge 코드 추가
 				병합된 data 전처리 코드 preprocessing.ipynb 추가
+19/08/01/00:58	DK		crawling 코드 이름 수정(파일이름에 띄어쓰기가...)
