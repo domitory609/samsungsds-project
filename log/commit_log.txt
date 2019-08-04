@@ -5,3 +5,4 @@
 				병합된 data 전처리 코드 preprocessing.ipynb 추가
 19/08/01/00:58	DK		crawling 코드 이름 수정(파일이름에 띄어쓰기가...)
 19/08/01/06:47  MY 		gitignore에 데이터 안올라가게 수정
+19/08/03~04     MY		django 테스트 프로토타입 완성 / mbti general chat crawler개발
