@@ -16,6 +16,7 @@ import pickle
 from sklearn.externals import joblib
 import csv
 from django.http import HttpResponse
+import time
 
 # Create your views here.
 def test(request):
@@ -37,6 +38,7 @@ def result(request):
              'petal width (cm)':[petal_width]})
 
         model = joblib.load('mbti_model/is_model.pkl')
+        
 
         pred = model.predict(iris_test)[0]
 
