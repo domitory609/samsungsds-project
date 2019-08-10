@@ -8,3 +8,4 @@
 19/08/03~04     MY		django 테스트 프로토타입 완성 / mbti general chat crawler개발
 19/08/04 15:52  MY   		preprocessing파일 전달 및 personality cafe total utl crawler develop
 19/08/10 13:37  MY		django file name, 코드 수정
+19/08/10 14:47  MY   		django model commit 
