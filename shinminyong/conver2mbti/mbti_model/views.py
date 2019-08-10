@@ -36,7 +36,7 @@ def result(request):
              'petal length (cm)':[petal_length],
              'petal width (cm)':[petal_width]})
 
-        model = joblib.load('/Users/tlsal/samsungsds-project/shinminyong/conver2mbti/mbti_model/is_model.pkl')
+        model = joblib.load('mbti_model/is_model.pkl')
 
         pred = model.predict(iris_test)[0]
 
